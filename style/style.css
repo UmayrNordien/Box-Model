@@ -38,6 +38,6 @@
     width:600px;
     length: 600px;
 
-                           /* apply similar values to an image */ 
+    margin:50px;
+    border:10px dashed orangered;              /* apply similar values to an image */ 
 }
-
