@@ -9,6 +9,7 @@
 .Box-Modelh1{
     font-size: larger;
     color: slateblue;
+    text-align-last:center;
 }
 /* H2 heading */
 .headingh2{
@@ -23,13 +24,13 @@
 }
 /* BOX MODEL EXAMPLE */
 .border-example{
-    background-color: lightgray;
+    background-color: rgb(238, 238, 238);
     width: fit-content; /* wrap around the text */
 
-    margin:20px;
+    margin:50px;
     border:10px dashed orangered;
     padding: 100px;      /* transparent */
-    margin:50px;        /* transparent */
+ 
 }
 
 /* APPLIED BOX MODEL PROPERTIES TO AN IMAGE*/
@@ -37,8 +38,6 @@
     width:600px;
     length: 600px;
 
-                /* apply similar values to an image */  */
+                           /* apply similar values to an image */ 
 }
 
-margin:50px;
-border:2px solid orange;; 
